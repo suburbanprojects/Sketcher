@@ -1,2 +1,2 @@
 # Sketcher
-A basic drawing program. 
+A basic drawing program. Can draw and save images. 
